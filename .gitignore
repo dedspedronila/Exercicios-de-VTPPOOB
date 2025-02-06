@@ -13,3 +13,8 @@ Aula_VTPPOOB/build/built-jar.properties
 Aula_VTPPOOB/build/classes/.netbeans_automatic_build
 Aula_VTPPOOB/build/classes/.netbeans_update_resources
 *.class
+Exercicios/pom.xml
+Exercicios/lib/unknown/binary/AbsoluteLayout/SNAPSHOT/AbsoluteLayout-SNAPSHOT.jar
+Exercicios/src/main/java/Exercicio2/ClienteVIEW.form
+Exercicios/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Exercicios/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
